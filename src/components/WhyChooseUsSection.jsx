@@ -103,7 +103,7 @@ export default function WhyChooseUsSection() {
               <div className="absolute inset-0 rounded-full overflow-hidden shadow-2xl border-8 border-gray-900">
                 {/* Placeholder – Replace with your image */}
                 <img
-                    src="src\assets\images\trusted-by-section.jpg"
+                    src="./images/trusted-by-section.jpg"
                     alt="Designer workspace"
                     className="w-full h-full object-cover"
                   />

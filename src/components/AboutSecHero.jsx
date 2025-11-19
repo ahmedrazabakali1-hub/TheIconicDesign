@@ -12,7 +12,7 @@ export default function AboutSecHero() {
         {/* Background Image (replace later) */}
         <div className="absolute inset-0">
           <img
-            src="src/assets/images/about-hero.jpg"
+            src="./images/about-hero.jpg"
             alt="Team collaboration"
             className="w-full h-full object-cover"
           />
@@ -48,7 +48,7 @@ export default function AboutSecHero() {
             >
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="src\assets\images\about-section.jpg"
+                  src="./images/about-section.jpg"
                   alt="The Iconic Design team"
                   className="w-full h-auto object-cover"
                 />

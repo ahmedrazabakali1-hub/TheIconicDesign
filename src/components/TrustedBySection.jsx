@@ -7,12 +7,12 @@ import { Check } from 'lucide-react';
 export default function TrustedBySection() {
   // Replace with your real client logos later
   const clients = [
-    { name: 'Blake Star', logo: 'src/assets/images/Blake-Star.webp' },
-    { name: 'Nick & Joan', logo: 'src/assets/images/Nick-and-Joan.webp' },
-    { name: 'Dalton', logo: 'src/assets/images/Dalton.webp' },
-    { name: 'Vurnis', logo: 'src/assets/images/Vurnis.webp' },
-    { name: 'Tandreas Bike', logo: 'src/assets/images/Andreas-Bike.webp' },
-    { name: 'Huston', logo: 'src/assets/images/Huston.webp' },
+    { name: 'Blake Star', logo: './images/Blake-Star.webp' },
+    { name: 'Nick & Joan', logo: './images/Nick-and-Joan.webp' },
+    { name: 'Dalton', logo: './images/Dalton.webp' },
+    { name: 'Vurnis', logo: './images/Vurnis.webp' },
+    { name: 'Tandreas Bike', logo: './images/Andreas-Bike.webp' },
+    { name: 'Huston', logo: './images/Huston.webp' },
   ];
 
   return (
@@ -103,7 +103,7 @@ export default function TrustedBySection() {
           {/* RIGHT: Background Image */}
           <div className="hidden lg:block absolute inset-y-0 right-0 w-full lg:w-1/3">
             <img
-              src="src\assets\images\about-teams.jpg"
+              src="./images/about-teams.jpg"
               alt="Workspace"
               className="h-full w-full object-cover"
             />

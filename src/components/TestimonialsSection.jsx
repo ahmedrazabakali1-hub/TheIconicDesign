@@ -11,21 +11,21 @@ export default function TestimonialsSection() {
       role: 'CEO, TechFlow',
       content: 'The Iconic Design transformed our outdated platform into a sleek, high-performance system. Our user engagement increased by 180% in just 3 months.',
       rating: 5,
-      image: "src/assets/images/Alex-Morgan.webp"
+      image: "./images/Alex-Morgan.webp"
     },
     {
       name: 'Sofia Chen',
       role: 'Creative Director, Nova Studio',
       content: 'Working with this team feels like having an in-house design and dev powerhouse. They don’t just deliver — they overdeliver with creativity and precision.',
       rating: 5,
-      image: "src/assets/images/Sofia-Chen.jpg"
+      image: "./images/Sofia-Chen.jpg"
     },
     {
       name: 'James Carter',
       role: 'Founder, Pulse Analytics',
       content: 'From strategy to launch, every step was seamless. Their attention to detail and proactive communication made all the difference.',
       rating: 5,
-      image: "src/assets/images/James-Carter.webp"
+      image: "./images/James-Carter.webp"
     },
   ];
 

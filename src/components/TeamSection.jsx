@@ -60,7 +60,7 @@ export default function TeamSection() {
                 <div className="flex items-center justify-center lg:justify-start mt-4">
                 <div className="w-10 h-10 rounded-full overflow-hidden">
                   <img 
-                    src="src/assets/images/Maya-Patel.jpg"
+                    src="./images/Maya-Patel.jpg"
                     alt="Maya Patel"
                     className="w-full h-full object-cover"
                   />
@@ -82,7 +82,7 @@ export default function TeamSection() {
                 {/* TOP IMAGE */}
                 <div className="rounded-2xl overflow-hidden shadow-2xl">
                   <img
-                    src="src\assets\images\teams-section.jpg"
+                    src="./images/teams-section.jpg"
                     alt="Team working together"
                     className="w-full h-64 object-cover hover:scale-105 transition-transform duration-700"
                   />
@@ -91,7 +91,7 @@ export default function TeamSection() {
                 {/* BOTTOM IMAGE */}
                 <div className="rounded-2xl overflow-hidden shadow-2xl">
                   <img
-                    src="src\assets\images\teams-section-two.jpg"
+                    src="./images/teams-section-two.jpg"
                     alt="Designer workspace"
                     className="w-full h-64 object-cover hover:scale-105 transition-transform duration-700"
                   />

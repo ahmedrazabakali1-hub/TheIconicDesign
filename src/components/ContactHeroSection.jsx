@@ -10,7 +10,7 @@ export default function ContactHeroSection() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img
-          src="src\assets\images\contact-bg.jpg"
+          src="./images/contact-bg.jpg"
           alt="Team collaboration"
           className="w-full h-full object-cover opacity-70"
         />

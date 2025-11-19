@@ -10,7 +10,7 @@ export default function ServicesHeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="src\assets\images\services-bg.jpg"
+          src="./images/services-bg.jpg"
           alt="Digital solutions team"
           className="w-full h-full object-cover opacity-70"
         />
